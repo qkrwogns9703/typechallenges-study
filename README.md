@@ -1,5 +1,7 @@
 <p align='center'>
+  <a href="https://github.com/type-challenges/type-challenges">
   <img src='./src/logo.svg' />
+  </a>
 </p>
 
 ## 진행방식
