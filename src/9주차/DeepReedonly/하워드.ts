@@ -7,7 +7,7 @@ type X = {
 }
 
 type DeepReadonly<T> = {
-    readonly [key in keyof T] : T[key] extends never ? T[key] : DeepReadonly<T[key]>
+    readonly [key in keyof T] : T[key] extends Function ? T[key] : T[key] extends never ? T[key] : DeepReadonly<T[key]>
 }
 
 type Expected = {
@@ -17,6 +17,5 @@ type Expected = {
     }
     readonly y: 'hey'
 }
-
 
 type Todo = DeepReadonly<X> // should be same as `Expected`
