@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f6c8984-6b34-4261-a551-ef44bc8e0a45" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="16주차-하워드" />
+                    <option name="lastUsedInstant" value="1685251348" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="15주차-하워드" />
+                    <option name="lastUsedInstant" value="1684648306" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="13주차-하워드" />
+                    <option name="lastUsedInstant" value="1683448826" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="12주차-하워드" />
+                    <option name="lastUsedInstant" value="1682829755" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1682826835" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KItag6lxgUHgEVQHQXD2YZZY3F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "16주차-하워드",
+    "last_opened_file_path": "/Users/gonhong/Documents/workspace/typechallenges-study/src/16주차/LengthOfString",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/16주차/LengthOfString" />
+      <recent name="$PROJECT_DIR$/src/15주차/Permuation" />
+      <recent name="$PROJECT_DIR$/src/14주차/ReplaceAll" />
+      <recent name="$PROJECT_DIR$/src/13주차/Trim" />
+      <recent name="$PROJECT_DIR$/src/12주차/TypeLookup" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f6c8984-6b34-4261-a551-ef44bc8e0a45" name="Changes" comment="" />
+      <created>1673673989565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673673989565</updated>
+      <workItem from="1673673991067" duration="847000" />
+      <workItem from="1674480164872" duration="3487000" />
+      <workItem from="1674530325899" duration="131000" />
+      <workItem from="1675817819209" duration="2266000" />
+      <workItem from="1676097212082" duration="1575000" />
+      <workItem from="1676252894889" duration="787000" />
+      <workItem from="1676806850340" duration="1394000" />
+      <workItem from="1677389738899" duration="794000" />
+      <workItem from="1678598729039" duration="2399000" />
+      <workItem from="1679724717197" duration="7320000" />
+      <workItem from="1680404982599" duration="5766000" />
+      <workItem from="1682826774954" duration="3031000" />
+      <workItem from="1683448799100" duration="1177000" />
+      <workItem from="1683958586651" duration="1521000" />
+      <workItem from="1684648283832" duration="7274000" />
+      <workItem from="1685246256517" duration="3511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
